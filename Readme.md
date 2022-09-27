@@ -12,3 +12,5 @@
     - Input : program python java c++ stop
     - output : program c++
 - Make your **elaboration** on your code and submit it to Canvas
+
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRs_ab58FepUhciMLelH2zWDza6IgDh9EUVXHseYNRPJ_xqIlvuLSJGXboCJkrGPT8EhI0wnyZEb4XQ/embed?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.g114ede88c96_0_236" width="1440" height="839" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
